@@ -1,10 +1,9 @@
-[travis]: https://travis-ci.org/rubykube/barong
-[codeclimate]: https://codeclimate.com/github/rubykube/barong/maintainability
-[peatio.tech]: https://www.peatio.tech
+[travis]: https://travis-ci.org/peatiotrade/barong
+[www.peatio.trade]: https://www.peatio.trade
 
 # Barong
-[![Build Status](https://travis-ci.org/rubykube/barong.svg?branch=master)][travis]
-[![Maintainability](https://api.codeclimate.com/v1/badges/a53414f061e69f6f531a/maintainability)][codeclimate]
+[![Build Status](https://travis-ci.org/peatiotrade/barong.svg?branch=master)][travis]
+
 
 # Overview
 
