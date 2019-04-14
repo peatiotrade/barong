@@ -8,7 +8,7 @@
 
 # Overview
 
-Barong is oAuth server for [peatio.tech][peatio.tech] stack.
+Barong is oAuth server for [peatio.trade][peatio.tech] stack.
 
 # Development
 
